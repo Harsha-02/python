@@ -1,0 +1,3 @@
+def func(name):
+  print('hi ',name)
+func("anand")
